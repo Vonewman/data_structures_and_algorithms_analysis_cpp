@@ -5,10 +5,12 @@ using namespace std;
 
 int main()
 {
-    IntCell m;
+    IntCell *m;
 
-    m.write(5);
-    cout << "Cell contents: " << m.read() << endl;
+    m = new IntCell{ 0 };
+    m->write(5);
+    cout << "Cell contents: " << m->read() << endl;
 
+    delete m;
     return 0;
 }
