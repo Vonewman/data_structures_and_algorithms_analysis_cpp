@@ -1,5 +1,5 @@
-#ifndef IntCell_H
-#define IntCell_H
+#ifndef IntCell_H_
+#define IntCell_H_
 
 /**
  * A class for simulating an integer memory cell.

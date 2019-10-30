@@ -5,6 +5,7 @@ using namespace std;
 /**
  * A class for simulating a memory cell.
 */
+
 template <typename Object>
 class MemoryCell
 {

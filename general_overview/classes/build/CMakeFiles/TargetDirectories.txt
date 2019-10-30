@@ -1,0 +1,3 @@
+/home/geek/data_structures_and_algorithms_analysis_cpp/general_overview/classes/build/CMakeFiles/rebuild_cache.dir
+/home/geek/data_structures_and_algorithms_analysis_cpp/general_overview/classes/build/CMakeFiles/test.dir
+/home/geek/data_structures_and_algorithms_analysis_cpp/general_overview/classes/build/CMakeFiles/edit_cache.dir

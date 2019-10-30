@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/IntCell.h
+
+/home/geek/data_structures_and_algorithms_analysis_cpp/general_overview/classes/src/IntCell.cpp
+IntCell.h
+/home/geek/data_structures_and_algorithms_analysis_cpp/general_overview/classes/src/IntCell.h
+
+/home/geek/data_structures_and_algorithms_analysis_cpp/general_overview/classes/src/mainapp.cpp
+iostream
+-
+IntCell.h
+/home/geek/data_structures_and_algorithms_analysis_cpp/general_overview/classes/src/IntCell.h
+
